@@ -15,8 +15,8 @@ Currently supported on OpenWrt 18.06.
 
 Router must have minimum 8M flash and 64M memory.
 
+No Luci/Gui support.
+
 VPNs support IPv4 only.
 
 Tested on PIA/NordVPN VPN providers so far.
-
-No Luci/Gui support.
