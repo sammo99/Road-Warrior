@@ -19,4 +19,6 @@ No Luci/Gui support.
 
 VPNs support IPv4 only.
 
+WISP Mode only.
+
 Tested on PIA/NordVPN VPN providers so far.
