@@ -17,6 +17,6 @@ Router must have minimum 8M flash and 64M memory.
 
 VPNs support IPv4 only.
 
-Tested on PIA/NordVPN vpn provider so far.
+Tested on PIA/NordVPN VPN provider so far.
 
 No Luci/Gui support.
