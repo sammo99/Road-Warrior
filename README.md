@@ -1,2 +1,2 @@
 # Road-Warrior
-openwrt atheros openvpn/wireguard router
+Openwrt Atheros openvpn/wireguard router
